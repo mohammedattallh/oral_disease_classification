@@ -26,3 +26,5 @@ The project also provides an interactive **Gradio web app** for real-time predic
 | Visualization | pytorch-grad-cam |
 
 ---
+### 🔸 Web App Interface  
+![App Preview](https://github.com/mohammedattallh/oral_disease_classification/blob/main/result1.png)
