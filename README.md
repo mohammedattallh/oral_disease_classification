@@ -28,3 +28,11 @@ The project also provides an interactive **Gradio web app** for real-time predic
 ---
 ### 🔸 Web App Interface  
 ![App Preview](https://github.com/mohammedattallh/oral_disease_classification/blob/main/result1.png)
+
+---
+
+### 💡 Recommendations  
+
+This section provides insights and potential improvements for future work and research.  
+
+![App Preview](https://github.com/mohammedattallh/oral_disease_classification/blob/main/result2.png)
